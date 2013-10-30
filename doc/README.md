@@ -1,13 +1,12 @@
-# Dokumentation
-I denna katalog samlar ni dokumentation till kursledningen. Det går även bra att lägga upp annan typ av dokumentation i denna katalog.
+# Digital Portfolio
 
-Du kan editera projektbeskrivningen direkt på GitHub (Edit) eller via exempelvis Cloud9 och sedan göra en commit och en push som vanligt.
+## Förberedelse
 
-I samma katalog som denna fil hittar du filen "Projektbeskrivning.md" som ni kan använda som skelett för projektbeskrivningen.
-
-Ni kan läsa mer om hur man formaterar i Markdown på GitHub här: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-Länk ser ni exempel på ovan:
+Då vi visste att det skulle bli ett grafiskt krävande projekt så ville vi få en klar bild över hur hemsidan skulle se ut
+och vi började därför med många skisser och bilder över hur det skulle se ut och vilka sidor som skulle finnas. Sophie
+gjorde även en beskrivning av sidan tillsamans med några bilder över utseendet på sidan till hennes klass på Blekinge
+Tekniska Högskola för att få feedback. Efter vi tagit åt oss av denna och vi slimmade ner hemsidan till att verkligen
+bara he med det som var nödvändigt så började det riktiga arbetet på hemsidan.
 
 # h1
 ## h2
