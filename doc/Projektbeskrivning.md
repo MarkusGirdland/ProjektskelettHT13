@@ -13,6 +13,15 @@ ses som en digital portfolio där man lätt kan få information om olika verk oc
 till CW. Idén för detta kom då Sophie kände att hon skulle vela ha ett alternativ till att enkelt visa vad hon kan skapa till potentiella arbetsgivare
 snabbt och enkelt utan att behöva skicka massa bilder eller ha utskrivna bilder med sig.
 
+## Förberedelse
+
+Då vi visste att det skulle bli ett grafiskt krävande projekt så ville vi få en klar bild över hur hemsidan skulle se ut
+och vi började därför med många skisser och bilder över hur det skulle se ut och vilka sidor som skulle finnas. Sophie
+gjorde även en beskrivning av sidan tillsamans med några bilder över utseendet på sidan till hennes klass på Blekinge
+Tekniska Högskola för att få feedback. Efter vi tagit åt oss av denna och vi slimmade ner hemsidan till att verkligen
+bara he med det som var nödvändigt så började det riktiga arbetet på hemsidan.
+
+
 ## Tekniker
 Teknikerna som kommer användas för att skapa hemsidan är html5 och CSS utifrån principen “Mobile First”. Kodandet kommer att ske i cloud9 via GitHub
 för att sedan implementeras på den redan befintliga adressen www.sophieottosson.com. Möjligtvis kan det bli så att jag även behöver använda mig av 
