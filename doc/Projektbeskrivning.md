@@ -27,7 +27,6 @@ Teknikerna som kommer användas för att skapa hemsidan är html5 och CSS utifr�
 för att sedan implementeras på den redan befintliga adressen www.sophieottosson.com. Möjligtvis kan det bli så att jag även behöver använda mig av 
 Javascript.
 
-
 ## Begränsningar
 Då Sophie är en designer så bör hemsidan återspegla detta och en stor vikt kommer att läggas på CSS för att få hemsidan att se så snygg ut som möjligt. 
 Begränsningar kommer troligen sättas på just hur mycket tid som jag kommer ha att kunna koda i CSS. Målet är att ha tillräckligt mycket tid på mig för 
@@ -37,6 +36,13 @@ sidan "kontakt" kommer även att fejkas.
 
 ## Förstudier
 Några få förstudier inom området av vissa funktioner för att få sidan att se riktigt häftig ut, exempelvis som en bok där man kan bläddra blad.
+
+## SEO och WCAG2
+För att kunna, när sidan väl går online, enkelt kunna hitta att det är just Sophie Ottossons hemsida så har jag bland annat satt hennes namn i titlen för varje sida för att förhoppningsvis kunna få en sökmotor att förstå att det är just hennes hemsida om man skulle googla på hennes namn. Förutom det så har jag även gjort att hennes kontaktsida (som ska simulera ett kontaktkort liggandes på ett bord) så står texten som ett "hcard" för att även där kunna snabbt få ut hennes namn till sökmotorer, även hennes e-mail och telefonnummer ska kunna hittas på det sättet, är förhoppningen.
+
+För WCAG2 så kan man dels se vilken sida man är på för tillfället i menyn då det istället för en ikon är text (som även kommer fram om man håller musen över menyn). Menyn är även medveten gjord så knappar ska vara stora att klicka på, så man inte behöver en enorm precision med en mus. Hemsidan har fortfarande några problem, som inte hanns med att fixas innan redovisningen. De problem jag är medveten om och ska implementera i framtiden är:
+- Man ska kunna tabba sig mellan menyns ikoner
+- Om man tar bort stilmallen ska menyn bli textlänkar, inte bilder
 
 ## Tidsplanering
 [Gantt schema](https://docs.google.com/spreadsheet/ccc?key=0AhKAs6j5MOGgdHdPbGF0QWtFZnp1V01JbEE3bXpoYkE&usp=sharing)
